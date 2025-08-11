@@ -11,5 +11,5 @@ A sleek, animated collapsible notifications list built with React and Framer Mot
 - Fully built without Motion+ (premium) features
 
 <p>
-  <img src="public/preview.gif" alt="Collapsible Notifications UI Preview" width="600" />
+  <img src="public/preview.gif" alt="Collapsible Notifications UI Preview" width="400" />
 </p>
