@@ -4,6 +4,10 @@ Tired of boring, stiff notification lists? Say hello to a sleek, animated collap
 
 This lil’ guy stacks your notifications like stylish playing cards 🎴, then swooshes them in and out with bouncy animations that’ll make your UI feel alive.
 
+https://github.com/user-attachments/assets/0edb685e-46fa-4bfd-99d4-166a21dd0ccf
+
+---
+
 ### ✨ Features
 
 - 🎢 Smooth collapse/expand animations – silky and satisfying
@@ -15,5 +19,3 @@ This lil’ guy stacks your notifications like stylish playing cards 🎴, then 
 ### 🚀 Why you’ll love it
 
 Because life’s too short for dull UIs. This component makes your notifications feel like they’re having fun right along with you ✨
-
-![preview](https://github.com/user-attachments/assets/0edb685e-46fa-4bfd-99d4-166a21dd0ccf)
